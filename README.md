@@ -1,1 +1,3 @@
-# Drum-Kit
+## Drum-Kit ##
+
+Drum kit game 
